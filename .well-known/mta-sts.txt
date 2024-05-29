@@ -1,5 +1,8 @@
 version: STSv1
 mode: [enforce] 
 mx: mx1.formula4health.com      
-mx: mx2.formula4health.com    
+mx: mx2.formula4health.com   
+mx: mail.formula4health.com
+mx: *.formula4health.net
+mx: backupmx.formula4health.com
 max_age: 604800            
